@@ -6,7 +6,7 @@
 // @match       https://blackboard.indianatech.edu/*
 // @grant       none
 // @version     1.0
-// /==UserScript==
+// ==/UserScript==
 
 document
   .querySelector('.brandingImgWrap > a')
