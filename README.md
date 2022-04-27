@@ -8,10 +8,12 @@ Make sure you have [ViolentMonkey][ext] installed in your browser.
 
 ## Installation
 
-Go to your script of choice in GitHub, then click the button marked
-"Raw". ViolentMonkey should automatically open it up for installation.
-Verify that this is the script that you would like to install, then
-click "Install". You're done!
+1. Navigate to any of the scripts in my repo.
+2. Click the button marked "Raw".
+3. If ViolentMonkey doesn't automatically open, then copy the URL,
+   open ViolentMonkey manually, and click "New > Install from URL".
+4. Verify the script is correct, then click "Confirm installation".
+5. Done!
 
 ## License
 
