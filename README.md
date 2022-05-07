@@ -12,7 +12,8 @@ Click on any of the links below to automatically select it for
 installation in ViolentMonkey! (Note: if it doesn't work, use the
 manual installation steps in the next section.)
 
-* [Blackboard Logo Corrector][script-blackboard-logo-corrector]
+* [Correct Blackboard Logo][script-correct-blackboard-logo]
+* [Skip Experian Membership Offer][script-skip-experian-membership-offer]
 
 ## Manual Installation
 
@@ -30,4 +31,5 @@ All scripts in this repository are released under the [MIT License][license].
 [ext]: https://violentmonkey.github.io/get-it/ "Install ViolentMonkey for your browser"
 [license]: https://github.com/icorbrey/violentmonkey-scripts/blob/master/LICENSE "View the license for icorbrey/violentmonkey-scripts"
 
-[script-blackboard-logo-corrector]: https://github.com/icorbrey/violentmonkey-scripts/raw/master/blackboard-logo-corrector.user.js "Install the Blackboard Logo Corrector using ViolentMonkey"
+[script-correct-blackboard-logo]: https://github.com/icorbrey/violentmonkey-scripts/raw/master/userscripts/correct-blackboard-logo.user.js "Install the 'Correct Blackboard Logo' userscript using ViolentMonkey"
+[script-skip-experian-membership-offer]: https://github.com/icorbrey/violentmonkey-scripts/raw/master/userscripts/skip-experian-membership-offer.user.js "Install the 'Skip Experian Membership Offer' userscript using ViolentMonkey"

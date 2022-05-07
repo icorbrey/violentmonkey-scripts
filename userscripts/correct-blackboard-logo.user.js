@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Blackboard Logo Corrector
+// @name        Correct Blackboard Logo
 // @description Forces the Blackboard logo to open in the same tab.
 // @author      Isaac Corbrey
 // @namespace   Violentmonkey Scripts
@@ -9,5 +9,5 @@
 // ==/UserScript==
 
 document
-  .querySelector('.brandingImgWrap > a')
-  .removeAttribute('target')
+	.querySelector('.brandingImgWrap > a')
+	.removeAttribute('target')
