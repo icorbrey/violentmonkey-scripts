@@ -12,6 +12,7 @@ Click on any of the links below to automatically select it for
 installation in ViolentMonkey! (Note: if it doesn't work, use the
 manual installation steps in the next section.)
 
+* [Calculate Cost Basis in Computershare][script-calculate-cost-basis-computershare]
 * [Correct Blackboard Logo][script-correct-blackboard-logo]
 * [Skip Experian Membership Offer][script-skip-experian-membership-offer]
 
@@ -33,3 +34,4 @@ All scripts in this repository are released under the [MIT License][license].
 
 [script-correct-blackboard-logo]: https://github.com/icorbrey/violentmonkey-scripts/raw/master/userscripts/correct-blackboard-logo.user.js "Install the 'Correct Blackboard Logo' userscript using ViolentMonkey"
 [script-skip-experian-membership-offer]: https://github.com/icorbrey/violentmonkey-scripts/raw/master/userscripts/skip-experian-membership-offer.user.js "Install the 'Skip Experian Membership Offer' userscript using ViolentMonkey"
+[script-calculate-cost-basis-computershare]: https://github.com/icorbrey/violentmonkey-scripts/raw/master/userscripts/calculate-cost-basis-computershare.user.js "Install the 'Calculate Cost Basis in Computershare' userscript using ViolentMonkey"
